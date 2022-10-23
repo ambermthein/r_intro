@@ -1,0 +1,60 @@
+---
+title: "R-intro syllabus"
+author: "Nicholus Tint Zaw"
+date: "2022-10-23"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Training Objectives
+
+The overall objective of this `r-introduction` training is to understand the basic concepts and syntax applied in essential data wrangling works. Based on that philosophy, the training will cover the basic `r-commands` and other popular commands from the `tidyverse` package. We aim for each participant to comfortably perform the data wrangling using the `tidyverse` package at the end of the training. 
+
+
+## Course Materials 
+
+Hadley Wickham and Garret Grolemund’s R for Data Science (R4DS). Access free textbook [here](https://r4ds.had.co.nz/) 
+
+
+## Course Structure and Plan 
+
+The pre-recorded lecture video will be available online every Thursday. The participants must review the video and go through the coding example before coming to Sunday's live discussion session. The Sunday session will focus more on reviewing the challenging concepts from the pre-recorded video and some hands-on practices from the examples dataset. The daily course plan is mentioned in the following table. 
+
+| **No** | **Day** | **Topic** | 
+| -- | :---: | :--- | 
+| 1 | Day 1 | Introduction to GitHub and R Baisc commands | 
+| 2 | Day 2 | Data frame, Data type and Vector | 
+| 3 | Day 3 | Data transformation | 
+| 4 | Day 4 | Tidy dataset and Coding Style | 
+| 5 | Day 5 | How to handle string (text) data? | 
+| 6 | Day 6 | How to handle date data? | 
+| 7 | Day 7 | Merging/append - Join dataset | 
+| 8 | Day 8 | Function - that saves our life in data wrangling! | 
+| 9 | Day 9 | Iteration (loop) | 
+| 10 | Day 10 | Final Project | 
+
+
++ Office hours are available for this course; you can book the available time-slots [here](https://calendly.com/ntintzaw/lsp-statistics-research-ta). 
++ Teaching Assistant session - TBC 
+
+
+
+## Course Evaluation 
+
+### Problem-Set 
+
+Problem-set (PS) will be available every Wednesday at 11:50 PM (Myanmar time) and due on the following week Wednesday at 11:59 PM (Myanmar time). There will be total 8 problem sets, and each PS will cover the course context from the previous week's lecture. We will use GitHub as a system for all PS-related business - which means you will receive the PS via GitHub classroom, and you need to submit your code via the specific repo created for that PS. The solution set for each PS will also be provided after the following day (every Thursday).  
+
+### Final Project (Individual) 
+
+There will be one final individual project at the end of the last week, which will cover the whole course materials. The final week will happen after the Christmas and New Year break, and participants have an extra week to complete the final project. Final Project PS releasing day and the submission deadline will be the same as PS's schedule. 
+
+### Grading 
+
+We count the submission of a PS as your commitment to your learning journey, and failure to submit at least one PS will seriously affect your eligibility status for future course enrollment and admission. We will provide the feedback and grade for each assignment (individually) in the following week. 
+
+
+
